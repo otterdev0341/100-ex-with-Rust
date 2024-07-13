@@ -26,7 +26,6 @@ fn first_last_three(context: String) -> String {
         while cursor <= length_of_context {
             result_vec.push(chars_vec[cursor]);
             cursor = cursor + 1;
-            
         }
         return result_vec.iter().collect();
     }
