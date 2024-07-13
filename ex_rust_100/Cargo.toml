@@ -1,0 +1,10 @@
+[package]
+name = "ex_rust_100"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "module"
+path = "./src/module.rs"
+
+[dependencies]
