@@ -9,7 +9,7 @@
       ""          ""
 */
 
-fn reverse_string(context : String) -> String {
+pub fn reverse_string(context : String) -> String {
     let mut length_of_string = context.len();
     if length_of_string == 0 {
         return String::from("");
