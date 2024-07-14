@@ -11,14 +11,13 @@
 
 fn is_it_only_digits(context: String) -> bool {
 
-    let vec_char: Vec<char> = context.chars().collect();
     let mut result = true;
-    if context.len() <= 0 {
+    if context.is_empty() {
         result = false;
         return result;
     }
-    while let Some(c) = vec_char.iter().next() {
-        let temp = *c as u8;
+    for c in context.chars() {
+        let temp = c as u8;
         if temp >= 58 || temp <= 47 {
             result = false;
             return result;
