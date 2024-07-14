@@ -9,6 +9,64 @@
     ""          False
 */
 
-fn is_it_only_digits() -> bool {
+fn is_it_only_digits(context: String) -> bool {
+
+    let vec_char: Vec<char> = context.chars().collect();
+    let mut result = true;
+    if context.len() <= 0 {
+        result = false;
+        return result;
+    }
+    while let Some(c) = vec_char.iter().next() {
+        let temp = *c as u8;
+        if temp >= 58 || temp <= 47 {
+            result = false;
+            return result;
+        }
+    }
     
+    return result;
+}
+
+#[cfg(test)]
+mod test_exc_6 {
+    use super::is_it_only_digits;
+
+
+    #[test]
+    fn test_1() {
+        //  "Hello"     False
+        let context = "Hello".to_owned();
+        let expect = false;
+        let result = is_it_only_digits(context);
+        assert_eq!(expect, result);
+    }
+
+    #[test]
+    fn test_2() {
+        // "4567"      True
+        let context = "4567".to_owned();
+        let expect = true;
+        let result = is_it_only_digits(context);
+        assert_eq!(expect, result);
+    }
+    #[test]
+    fn test_3() {
+        // "Hello59"   False
+        let context = "Hello59".to_owned();
+        let expect = false;
+        let result = is_it_only_digits(context);
+        assert_eq!(expect, result);
+    }
+
+    #[test]
+    fn test_4() {
+        //""          False
+        let context = "".to_owned();
+        let expect = false;
+        let result = is_it_only_digits(context);
+        assert_eq!(expect, result);
+    }
+
+
 }
