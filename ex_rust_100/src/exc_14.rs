@@ -45,7 +45,7 @@ fn switch_captial(context: String) -> String {
 
 #[cfg(test)]
 mod test {
-    use std::result;
+    
 
     use super::reverse_then_switch_capialized;
 
