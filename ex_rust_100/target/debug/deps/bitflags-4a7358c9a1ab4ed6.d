@@ -1,0 +1,11 @@
+/media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/deps/libbitflags-4a7358c9a1ab4ed6.rmeta: /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/lib.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/iter.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/parser.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/traits.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/public.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/internal.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external.rs
+
+/media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/deps/bitflags-4a7358c9a1ab4ed6.d: /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/lib.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/iter.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/parser.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/traits.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/public.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/internal.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external.rs
+
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/lib.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/iter.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/parser.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/traits.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/public.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/internal.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.6.0/src/external.rs:

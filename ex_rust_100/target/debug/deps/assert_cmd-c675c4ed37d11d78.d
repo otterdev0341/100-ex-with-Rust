@@ -1,0 +1,14 @@
+/media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/deps/libassert_cmd-c675c4ed37d11d78.rmeta: /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs /media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/build/assert_cmd-c7e8b9058f1323f2/out/current_target.txt /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md
+
+/media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/deps/assert_cmd-c675c4ed37d11d78.d: /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs /media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/build/assert_cmd-c7e8b9058f1323f2/out/current_target.txt /home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md
+
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs:
+/media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/build/assert_cmd-c7e8b9058f1323f2/out/current_target.txt:
+/home/otterdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md:
+
+# env-dep:OUT_DIR=/media/otterdev/OtterHeaven/CodingProject/100-ex-with-Rust/ex_rust_100/target/debug/build/assert_cmd-c7e8b9058f1323f2/out
