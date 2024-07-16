@@ -37,3 +37,4 @@ mod exc_36;
 mod exc_37;
 mod exc_38;
 mod exc_39;
+mod exc_40;
