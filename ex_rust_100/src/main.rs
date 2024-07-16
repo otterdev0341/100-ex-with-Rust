@@ -4,4 +4,4 @@ fn main() {
     
 }
 
-// เริ่ม exc 16 Sort world
+// Folder 5 ข้อ 25
