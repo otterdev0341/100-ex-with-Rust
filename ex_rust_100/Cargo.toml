@@ -8,4 +8,5 @@ name = "module"
 path = "./src/module.rs"
 
 [dependencies]
+itertools = "0.13.0"
 
