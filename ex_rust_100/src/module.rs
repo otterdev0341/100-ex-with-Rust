@@ -43,3 +43,4 @@ mod exc_42;
 mod exc_43;
 mod exc_44;
 mod exc_45;
+mod exc_46;
