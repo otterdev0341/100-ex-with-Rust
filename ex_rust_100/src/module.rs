@@ -39,3 +39,4 @@ mod exc_38;
 mod exc_39;
 mod exc_40;
 mod exc_41;
+mod exc_42;
