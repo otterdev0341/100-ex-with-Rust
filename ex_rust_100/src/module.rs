@@ -51,3 +51,4 @@ mod exc_50;
 mod exc_51;
 mod exc_52;
 mod exc_53;
+mod exc_54;
