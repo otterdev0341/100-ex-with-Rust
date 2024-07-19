@@ -64,3 +64,4 @@ pub mod exc_63;
 pub mod exc_64;
 pub mod exc_65;
 pub mod exc_66;
+pub mod exc_67;
