@@ -57,3 +57,4 @@ pub mod exc_56;
 pub mod exc_57;
 pub mod exc_58;
 pub mod exc_59;
+pub mod exc_60;
